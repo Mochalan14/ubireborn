@@ -1,0 +1,57 @@
+.gambar-jumbro{
+	background-size: 70px;
+	background: url(../gambar/bgjumbroton.jpg);
+}
+
+.navbar-brand{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.warna-putih{
+	background-color: white;
+}
+
+.warna-bg{
+	background: rgb(7,99,235);
+	background: linear-gradient(90deg, rgba(7,99,235,1) 24%, rgba(0,212,255,1) 69%);
+}
+
+.bulet{
+	border-radius: 50px;
+	background-color: green;
+	color: white;
+}
+
+.bulet:hover{
+	border-radius: 50px;
+	background-color: white;
+	color: green;
+}
+
+
+.tombolLogin{
+	background-color: green;
+	color: white;
+}
+
+.tombolLogin:hover{
+	background-color: white;
+	color: green;
+}
+
+.formLogin{
+	min-height: 473px;
+}
+
+.klik:hover{
+	background-color: lightblue;
+	color: white;
+}
+
+.harga{
+	background-color: blue;
+	color: white;
+	border-radius: 20px;
+	width: 200px;
+}
