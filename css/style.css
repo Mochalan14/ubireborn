@@ -49,9 +49,24 @@
 	color: white;
 }
 
-.harga{
-	background-color: skyblue;
-	color: white;
-	border-radius: 20px;
-	width: 200px;
+.arah{
+	flex-direction: column;
+}
+
+.circle{
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+}
+
+.merah{
+	background-color: red;
+}
+
+.kuning{
+	background-color: yellow;
+}
+
+.hijau{
+	background-color: green;
 }
