@@ -70,3 +70,18 @@
 .hijau{
 	background-color: green;
 }
+
+.samping{
+	display: flex;
+	flex-direction: row;
+}
+
+.desk p{
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.desk p span{
+	color: purple;
+}
