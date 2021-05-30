@@ -1,6 +1,11 @@
 .gambar-jumbro{
-	background-size: 70px;
-	background: url(../gambar/bgjumbroton.jpg);
+	background-size: cover;
+	background: url(../gambar/bgjumbroton2.png);
+	background-repeat: no-repeat;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+
 }
 
 .navbar-brand{
